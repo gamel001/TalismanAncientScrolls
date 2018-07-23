@@ -1729,3 +1729,5 @@ ID,Name,npcId,AIType,AIScript,Circle,Date,Faction,IsPatrol,PatrolPath,IsCyclicPa
 1774,心灯,6063,null,,,,,,,,,,,,,,,,,,,,
 1775,天使宝箱,6064,common,,0,,0,0,,,,0,0,,60,800,0,1,,,,,
 1775,天使宝箱,6065,common,,0,,0,0,,,,0,0,,60,800,0,1,,,,,
+1770,月兔,6066,noncombatant_pet,,30,,0,0,,,,0,0,,100,800,0,1,,,,,
+1770,月兔,6067,noncombatant_pet,,30,,0,0,,,,0,0,,100,800,0,1,,,,,

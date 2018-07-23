@@ -2713,7 +2713,7 @@ username_error,"Login name incorrect, login name only comprise small letters and
 version_error,Client Version Incorrect,
 wrong_username,Login name is illegal.,
 msg_worldchat_limit_fail,You could not speak in world channel temporarily.,
-msg_worldevent1,"Emergency!  Special Boss, #cc0c0c0The King of Pig Face Cat, #cee9900has appeared at the Forest Plain in Laurel Mountain!  Heroes are gathering together to fight against the boss. It seems that a battle between justice and evil is about to start!",
+msg_worldevent1,"Emergency!  Special Boss, #cc0c0c0Master Red Bat Killer, #cee9900has appeared at the Forest Plain in Laurel Mountain!  Heroes are gathering together to fight against the boss. It seems that a battle between justice and evil is about to start!",
 msg_worldevent1a,"Great news!  Special Boss, #cc0c0c0The King of Pig Face Cat, #cee9900has been defeated by all the brave heroes in a joint action!",
 msg_worldevent2,"Emergency!  Special Boss, #cc0c0c0The Tyrant of Zombie, #cee9900has appeared at the Zhao's Palace in Vast Mountain!  Heroes are gathering together to fight against the boss. It seems that a battle between justice and evil is about to start!",
 msg_worldevent2a,"Congratulations!  Special Boss, #cc0c0c0The Illfang The Kobold Lord, #cee9900has been defeated by all the brave heroes in a joint action, now have acess to 2nd floor!",
